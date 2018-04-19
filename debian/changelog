@@ -1,9 +1,12 @@
-pr2-users (0.5.2-precise) stable; urgency=low
+pr2-users (0.5.2-xenial) stable; urgency=low
 
+  [ Austin Hendrix ]
   * Incrementing to SVN: r1017
    - r1017: Move home directories bach to /home
 
- -- Austin Hendrix <ahendrix@willowgarage.com>  Wed, 05 Dec 2012 11:21:45 -0800
+  [ David Feil-Seifer ]
+
+ -- David Feil-Seifer <dave@cse.unr.edu>  Wed, 18 Apr 2018 17:31:15 -0700
 
 pr2-users (0.5.1-precise) stable; urgency=low
 
