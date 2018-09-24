@@ -5,8 +5,9 @@ pr2-users (0.5.2-xenial) stable; urgency=low
    - r1017: Move home directories bach to /home
 
   [ David Feil-Seifer ]
+  * added xenial
 
- -- David Feil-Seifer <dave@cse.unr.edu>  Wed, 18 Apr 2018 17:31:15 -0700
+ -- David Feil-Seifer <dfseifer@azrael>  Mon, 24 Sep 2018 15:50:00 -0700
 
 pr2-users (0.5.1-precise) stable; urgency=low
 
