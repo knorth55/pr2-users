@@ -1,3 +1,9 @@
+pr2-users (0.5.3-focal) stable; urgency=medium
+
+  * Updating to focal
+
+ -- Shingo Kitagawa <shingogo@hotmail.co.jp>  Tue, 17 May 2022 23:40:44 +0900
+
 pr2-users (0.5.2-xenial) stable; urgency=low
 
   [ Austin Hendrix ]
