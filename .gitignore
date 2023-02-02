@@ -1,0 +1,7 @@
+debian/.debhelper/*
+debian/files
+debian/pr2-users.debhelper.log
+debian/pr2-users.postinst.debhelper
+debian/pr2-users.prerm.debhelper
+debian/pr2-users.substvars
+debian/pr2-users/*
